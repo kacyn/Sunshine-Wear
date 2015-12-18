@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sunshine Wear</string>
+    <string name="my_digital_name">Sunshine Test</string>
+
+    <string name="pref_high_temp_key">high_temp_key</string>
+    <string name="pref_low_temp_key">low_temp_key</string>
+    <string name="pref_weather_icon_key">weather_icon_key</string>
+
+
+</resources>
